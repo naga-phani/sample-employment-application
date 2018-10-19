@@ -11,7 +11,7 @@ The repository code contains all the scripts required to create the schema, inse
 Note: The scripts provided are for SQL Server database, which was used during development
 
 # E-R Diagram
-![E-R Diagram](https://github.com/npmandhada/sample-employment-application/blob/master/E-R-Diagram.JPG)
+![E-R Diagram](https://github.com/npmandhada/sample-employment-application/blob/master/E-R-Diagram.PNG)
 
 # Setup 
 Step 1 - Create database schema - DB-Schema-Creation-Script.sql file <br />
